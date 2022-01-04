@@ -1,0 +1,18 @@
+#{
+    margin: 0%;
+}
+body{
+    font-family:'Vujahday Script', cursive; ;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.red-pic{
+    width: 80%;
+}
