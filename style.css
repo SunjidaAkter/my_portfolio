@@ -62,9 +62,31 @@ h3{
     background-size: 50%;
     background-attachment: fixed;
 }
+.black{
+    background-image: url(https://w7.pngwing.com/pngs/195/337/png-transparent-three-dimensional-square-background-texture-angle-other-thumbnail.png);
+}
 .footer{
     text-align: center;
     background-color: rgb(75, 23, 23);
     color: whitesmoke;
     padding: 10px 20px;
+}
+.experience_items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px -10px 50px navy;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: navy;
+    color: whitesmoke;
+    border-top: 10px solid ;
+    border-image: linear-gradient(90deg,blue, cyan);
+    border-image-slice: 1;
+}
+.blue{
+    background-image: url(https://wallpapercave.com/wp/wp2723844.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
