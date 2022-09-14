@@ -1,41 +1,56 @@
-*{
+* {
     margin: 0%;
 }
-.red-color{
+
+.red-color {
     color: indianred;
 }
-body{
-    font-family:'Vujahday Script', cursive; ;
+
+.para {
+    font-size: 24px;
+}
+
+body {
+    font-family: 'Vujahday Script', cursive;
+    ;
     box-sizing: border-box;
 }
-body p{
+
+body p {
     font-size: 20px;
 }
-h1{
+
+h1 {
     font-size: 60px;
 }
-h3{
+
+h3 {
     font-size: 30px;
 }
-.container{
+
+.container {
     display: flex;
 }
-.half-width{
+
+.half-width {
     width: 50%;
     margin: 5%;
 }
-.two-half-width{
+
+.two-half-width {
     width: 45%;
 }
-.three-half-width{
+
+.three-half-width {
     width: 55%;
 }
 
-.half-width img{
+.half-width img {
     width: 80%;
     padding: 5%;
 }
-.red-link-button{
+
+.red-link-button {
     text-decoration: none;
     background-image: linear-gradient(red, tomato);
     padding: 5px 40px;
@@ -43,7 +58,8 @@ h3{
     font-weight: 900;
     color: whitesmoke;
 }
-.black-link-button{
+
+.black-link-button {
     text-decoration: none;
     background-image: linear-gradient(90deg, grey, black);
     padding: 5px 40px;
@@ -51,27 +67,32 @@ h3{
     font-weight: 900;
     color: whitesmoke;
 }
-.black-pic{
+
+.black-pic {
     width: 400px;
     height: 500px;
     margin-left: 60px;
 }
-.red{
+
+.red {
     background-image: url(media/—Pngtree—pink_watercolor.png);
     background-repeat: no-repeat;
     background-size: 50%;
     background-attachment: fixed;
 }
-.black{
+
+.black {
     background-image: url(https://w7.pngwing.com/pngs/195/337/png-transparent-three-dimensional-square-background-texture-angle-other-thumbnail.png);
 }
-.footer{
+
+.footer {
     text-align: center;
     background-color: rgb(75, 23, 23);
     color: whitesmoke;
     padding: 10px 20px;
 }
-.experience_items{
+
+.experience_items {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
@@ -81,11 +102,12 @@ h3{
     border-radius: 10px;
     background-color: navy;
     color: whitesmoke;
-    border-top: 10px solid ;
-    border-image: linear-gradient(90deg,blue, cyan);
+    border-top: 10px solid;
+    border-image: linear-gradient(90deg, blue, cyan);
     border-image-slice: 1;
 }
-.blue{
+
+.blue {
     background-image: url(https://wallpapercave.com/wp/wp2723844.jpg);
     background-size: cover;
     background-attachment: fixed;
